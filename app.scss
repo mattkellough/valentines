@@ -17,6 +17,8 @@ body {
 
 .timeline {
     transform: scale(0);
+    // width: 100%;
+    // height: 100%;
 }
 
 .envelope-wrapper {
@@ -321,6 +323,8 @@ h1 {
 .timeline ul {
   background: #E08282;
   padding: 50px 0;
+  display: block;
+  margin: 0 auto;
 }
 
 .timeline ul li {
