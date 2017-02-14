@@ -49,6 +49,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/home.html": {
 		"ft": 8192,
 		"oA": 2,
