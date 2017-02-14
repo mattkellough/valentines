@@ -1,5 +1,13 @@
+html {
+    height: 100%;
+    width: 100%;    
+}
+
 body {
     background-color: #E08282;
+    height: 100%;
+    width: 100%;
+    margin: 0;
 }
 
 .container {
@@ -12,7 +20,7 @@ body {
     top: 50%;
     left: 50%;
     display: block;
-    transform: translate(-50%, -50%);
+    margin: -290px 0 0 -140px;
 }
 
 .envelope {

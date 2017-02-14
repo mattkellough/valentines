@@ -60,6 +60,15 @@
 		"oA": 2,
 		"oAP": "\/index.php",
 		"oF": 0
+		},
+	"\/transform.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/transform-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		}
 	},
 "hooks": [
