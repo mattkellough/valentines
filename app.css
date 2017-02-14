@@ -3,6 +3,9 @@ html {
   height: 100%;
   width: 100%; }
 
+* {
+  font-family: Open Sans; }
+
 body {
   background-color: #E08282;
   height: 100%;
@@ -286,7 +289,8 @@ h1 {
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: #F45B69; }
+  background: #fff;
+  border-radius: 10px; }
 
 .timeline ul li div::before {
   content: '';
@@ -302,7 +306,7 @@ h1 {
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent #F45B69 transparent transparent; }
+  border-color: transparent #fff transparent transparent; }
 
 .timeline ul li:nth-child(even) div {
   left: -439px; }
@@ -310,7 +314,7 @@ h1 {
 .timeline ul li:nth-child(even) div::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
-  border-color: transparent transparent transparent #F45B69; }
+  border-color: transparent transparent transparent #fff; }
 
 time {
   display: block;
@@ -350,3 +354,18 @@ time {
   .timeline ul li:nth-child(even) div {
     left: -289px;
     /*250+45-6*/ } }
+
+@media screen and (max-width: 600px) {
+  .timeline ul li {
+    margin-left: 20px; }
+  .timeline ul li div {
+    width: calc(100vw - 91px); }
+  .timeline ul li:nth-child(even) div {
+    left: 45px; }
+  .mouse_scroll {
+    right: 117px;
+    position: relative; }
+  .timeline ul li:nth-child(even) div::before {
+    left: -15px;
+    border-width: 8px 16px 8px 0;
+    border-color: transparent #fff transparent transparent; } }
