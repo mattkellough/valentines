@@ -621,4 +621,8 @@ h1 {
     border-width: 8px 16px 8px 0;
     border-color: transparent #fff transparent transparent;
   }
+  h1 {
+    position: absolute;
+    bottom: -100px;
+  }
 }

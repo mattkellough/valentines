@@ -503,4 +503,7 @@ h1 {
   .timeline ul li:nth-child(even) div::before {
     left: -15px;
     border-width: 8px 16px 8px 0;
-    border-color: transparent #fff transparent transparent; } }
+    border-color: transparent #fff transparent transparent; }
+  h1 {
+    position: absolute;
+    bottom: -100px; } }
