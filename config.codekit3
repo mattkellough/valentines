@@ -61,6 +61,78 @@
 		"oAP": "\/home.html",
 		"oF": 0
 		},
+	"\/images\/catShirts.jpg": {
+		"ft": 16384,
+		"iS": 143284,
+		"oA": 0,
+		"oAP": "\/images\/catShirts.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/christmasParty.jpg": {
+		"ft": 16384,
+		"iS": 222297,
+		"oA": 0,
+		"oAP": "\/images\/christmasParty.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/grenada.jpg": {
+		"ft": 16384,
+		"iS": 99634,
+		"oA": 0,
+		"oAP": "\/images\/grenada.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/holdingHands.jpg": {
+		"ft": 16384,
+		"iS": 123223,
+		"oA": 0,
+		"oAP": "\/images\/holdingHands.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/mexicanBirthday.jpg": {
+		"ft": 16384,
+		"iS": 225849,
+		"oA": 0,
+		"oAP": "\/images\/mexicanBirthday.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/nashville.jpg": {
+		"ft": 16384,
+		"iS": 205310,
+		"oA": 0,
+		"oAP": "\/images\/nashville.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/newYork.jpg": {
+		"ft": 16384,
+		"iS": 415960,
+		"oA": 0,
+		"oAP": "\/images\/newYork.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/surprised.jpg": {
+		"ft": 16384,
+		"iS": 124644,
+		"oA": 0,
+		"oAP": "\/images\/surprised.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/wedding.jpg": {
+		"ft": 16384,
+		"iS": 84658,
+		"oA": 0,
+		"oAP": "\/images\/wedding.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
