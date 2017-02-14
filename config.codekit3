@@ -93,6 +93,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/laugh.jpg": {
+		"ft": 16384,
+		"iS": 169856,
+		"oA": 0,
+		"oAP": "\/images\/laugh.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/mexicanBirthday.jpg": {
 		"ft": 16384,
 		"iS": 225849,
@@ -107,7 +115,7 @@
 		"oA": 0,
 		"oAP": "\/images\/nashville.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/images\/newYork.jpg": {
 		"ft": 16384,
@@ -122,14 +130,6 @@
 		"iS": 124644,
 		"oA": 0,
 		"oAP": "\/images\/surprised.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/wedding.jpg": {
-		"ft": 16384,
-		"iS": 84658,
-		"oA": 0,
-		"oAP": "\/images\/wedding.jpg",
 		"oF": 0,
 		"opt": 0
 		},
