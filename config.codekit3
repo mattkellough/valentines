@@ -61,12 +61,21 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
+	"\/timeline.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/timeline-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/transform.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/transform-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		}
