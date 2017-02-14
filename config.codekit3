@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/app-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/app.js": {
 		"ft": 64,
 		"mi": 1,
@@ -31,10 +41,24 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/index.html": {
+	"\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/home.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/home.html",
+		"oF": 0
+		},
+	"\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.php",
 		"oF": 0
 		}
 	},
